@@ -1,0 +1,60 @@
+/** Add css rules here for your application. */
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 0px 70px;
+  text-align: center;
+}
+.gwt-TextBox {
+  padding: 5px 4px;
+  border: 1px solid #ccc;
+  border-top: 1px solid #999;
+  font-size: small;
+  font-family: Arial Unicode MS, Arial, sans-serif;
+  width: 90px;
+  height: 35px;
+}
+.gwt-ListBox {
+  padding: 5px 4px;
+  border: 1px solid #ccc;
+  border-top: 1px solid #999;
+  font-size: small;
+  font-family: Arial Unicode MS, Arial, sans-serif;
+  width: 100px;
+  height: 35px;
+}
+.gwt-Button {
+  padding: 5px 4px;
+  border: 1px solid #ccc;
+  border-top: 1px solid #999;
+  font-size: small;
+  font-family: Arial Unicode MS, Arial, sans-serif;
+  width: 120px;
+  height: 35px;
+}
+.visibleForm {
+ border-top: thin solid #444444;
+  border-left: thin solid #444444;
+  border-right: thin solid #111111;
+  border-bottom: thin solid #111111;
+  text-align:right;
+  
+}
+
+.visibleForm-OddRow {
+  background-color: #ffffff;
+}
+
+.visibleForm-EvenRow {
+  background-color:  #f8f8f8;
+}
+
+.filled {
+  color: black;
+}
+
+.notFilled {
+  color: red;
+}
